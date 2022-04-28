@@ -1,0 +1,16 @@
+{
+  "name": "prog7-oefening",
+  "version": "1.0.0",
+  "description": "oefening voor programmeren 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nigel Ritfeld <info@nigelritfel.nl>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "native-fetch": "^4.0.2"
+  }
+}
